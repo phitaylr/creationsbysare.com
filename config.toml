@@ -1,5 +1,5 @@
 baseurl = "https://creationsbysare.com/"
-title = "Creative portfolio"
+title = "Creations by Sare"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Sarah Taylor, Polymer Clay Artist"
+  copyright = "&copy;2023 Creations by Sare"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a polymer clay artist based in Texas.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -47,22 +46,17 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Store"
+  url = "https://www.etsy.com/shop/CreationsBySare"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  facebook      = "https://www.facebook.com/CreationsbySare"
+  email         = "creationsbysare@gmail.com"
+  #twitter       = "full profile url in twitter"
+  #linkedin      = "full profile url in linkedin"
+  #stackoverflow = "full profile url in stackoverflow"
+  instagram     = "https://www.instagram.com/CreationsbySare/"
+  #github        = "full profile url in github"
+  #gitlab        = "full profile url in gitlab"
+  #youtube       = "full profile url in youtube"
+  #whatsapp      = "wa.me service link"
