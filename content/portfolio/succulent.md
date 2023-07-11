@@ -1,13 +1,14 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
-date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
-weight = 8
+image = "img/portfolio/succulent.png"
+date = "2023-07-11:22+05:30"
+title = "Succulent"
+weight = 0
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Succulents in cute planters.
+
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
