@@ -10,5 +10,4 @@ weight = 0
 Succulents in cute planters.
 
 <!--more-->
-
-<img src="img/portfolio/succulent.png">
+{{< figure src="img/portfolio/succulent.png" title="Succulents in planters" >}}
