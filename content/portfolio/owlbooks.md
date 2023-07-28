@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/succulent.png"
+image = "img/portfolio/OwlBooks.jpg"
 date = "2023-07-11:22+05:30"
 title = "Owl Books"
 weight = 0
