@@ -7,7 +7,7 @@ title = "Succulent"
 weight = 0
 +++
 
-Succulents in cute planters.
+Gorgeous hand sculpted succulent arrangement hung on metal teardrops.
 
 <!--more-->
-{{< figure src="https://creationsbysare.com/img/portfolio/succulent.png" >}}
+{{< figure src="https://creationsbysare.com/img/portfolio/succulenthoops.jpeg" >}}
