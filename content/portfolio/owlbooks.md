@@ -10,4 +10,4 @@ weight = 0
 Tiny owls sitting a top little stacks of books.
 
 <!--more-->
-{{< figure src="https://creationsbysare.com/img/portfolio/OwlBooks.jpg" title="Owl Books" >}}
+{{< figure src="https://creationsbysare.com/img/portfolio/OwlBooks.jpg" >}}
