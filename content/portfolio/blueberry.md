@@ -7,7 +7,7 @@ title = "Blueberries"
 weight = 0
 +++
 
-Blueberries
+Detailed blueberries
 
 <!--more-->
 {{< figure src="https://creationsbysare.com/img/portfolio/blueberry.webp" title="Blueberries" >}}
