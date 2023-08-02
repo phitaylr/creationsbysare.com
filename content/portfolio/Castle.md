@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/castle.webp"
+image = "img/portfolio/castle.jpeg"
 date = "2023-07-28:22+05:30"
 title = "Castle"
 weight = 0
@@ -10,4 +10,4 @@ weight = 0
 Gorgeous detailed castle and grounds.
 
 <!--more-->
-{{< figure src="https://creationsbysare.com/img/portfolio/castle.webp" title="Castle" >}}
+{{< figure src="https://creationsbysare.com/img/portfolio/castle.jpeg" title="Castle" >}}
