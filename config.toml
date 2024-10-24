@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Sarah Taylor, Polymer Clay Artist"
   copyright = "&copy;2023 Creations by Sare"
   sidebarAbout = [
-    "I am a polymer clay artist based in Texas.",
+    "I am a polymer clay artist based in Huntsville, AL.",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
