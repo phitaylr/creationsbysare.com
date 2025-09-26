@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/christmascookies.jpg"
-date = "2023-07-28:22+05:30"
+date = 2023-07-28
 title = "Christmas Cookies"
 weight = 0
 +++
