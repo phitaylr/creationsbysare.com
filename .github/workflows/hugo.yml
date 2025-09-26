@@ -1,43 +1,26 @@
-    name: Build and Deploy Hugo site to GitHub Pages
+- name: Setup Pages
+    id: pages
+    uses: actions/configure-pages@v5
 
-    on:
-      push:
-        branches:
-          - main # or your primary branch
+  - name: Setup Hugo
+    uses: peaceiris/actions-hugo@v3
+    with:
+      # Use 'latest' or specify a version like '0.128.0'
+      hugo-version: 'latest'
+      # Essential for themes that use SASS/SCSS or modern features
+      extended: true
 
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v4
-            with:
-              submodules: true
-              fetch-depth: 0
+  - name: Build Hugo Site
+    # The baseURL is configured via the GitHub Pages URL output, ensuring
+    # assets links are correct in the deployed environment.
+    run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-          - name: Setup Hugo
-            uses: peaceiris/actions-hugo@v3
-            with:
-              hugo-version: 'latest'
-              extended: true
+  - name: Upload artifact
+    uses: actions/upload-pages-artifact@v3
+    with:
+      # The path to Hugo's default output directory
+      path: ./public
 
-          - name: Build Hugo site
-            run: hugo --minify --destination public # Or --destination docs if using that setup
-
-          - name: Upload artifact
-            uses: actions/upload-pages-artifact@v3
-            with:
-              path: ./public # Or ./docs
-
-      deploy:
-        needs: build
-        permissions:
-          pages: write
-          id-token: write
-        environment:
-          name: github-pages
-          url: ${{ steps.deployment.outputs.page_url }}
-        runs-on: ubuntu-latest
-        steps:
-          - name: Deploy to GitHub Pages
-            id: deployment
-            uses: actions/deploy-pages@v4
+  - name: Deploy to GitHub Pages
+    id: deployment
+    uses: actions/deploy-pages@v4
