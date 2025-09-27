@@ -1,151 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creations by Sare</title>
-    <link>https://creationsbysare.com/</link>
-    <description>Recent content on Creations by Sare</description>
+    <title>Get in touch on Creations by Sare</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Get in touch on Creations by Sare</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://creationsbysare.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blueberries</title>
-      <link>https://creationsbysare.com/portfolio/blueberry/</link>
+      <link>http://localhost:1313/portfolio/blueberry/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/blueberry/</guid>
-      <description>&lt;p&gt;Detailed blueberries&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Blueberries</title>
-      <link>https://creationsbysare.com/portfolio/bluebird/</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/bluebird/</guid>
+      <guid>http://localhost:1313/portfolio/blueberry/</guid>
       <description>&lt;p&gt;Detailed blueberries&lt;/p&gt;</description>
     </item>
     <item>
       <title>Candy Canes</title>
-      <link>https://creationsbysare.com/portfolio/candycanes/</link>
+      <link>http://localhost:1313/portfolio/candycanes/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/candycanes/</guid>
+      <guid>http://localhost:1313/portfolio/candycanes/</guid>
       <description>&lt;p&gt;Hand twitsted tiny candy canes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cardinals</title>
-      <link>https://creationsbysare.com/portfolio/cardinals/</link>
+      <link>http://localhost:1313/portfolio/cardinals/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/cardinals/</guid>
+      <guid>http://localhost:1313/portfolio/cardinals/</guid>
       <description>&lt;p&gt;Bright Red Cardinals on a white birch tree backdrop&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castle</title>
-      <link>https://creationsbysare.com/portfolio/castle/</link>
+      <link>http://localhost:1313/portfolio/castle/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/castle/</guid>
+      <guid>http://localhost:1313/portfolio/castle/</guid>
       <description>&lt;p&gt;Gorgeous detailed castle and grounds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castle Windows</title>
-      <link>https://creationsbysare.com/portfolio/windows/</link>
+      <link>http://localhost:1313/portfolio/windows/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/windows/</guid>
+      <guid>http://localhost:1313/portfolio/windows/</guid>
       <description>&lt;p&gt;Little owls and cats stare out a castle window at a stary sky.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christmas Cookies</title>
-      <link>https://creationsbysare.com/portfolio/christmascookies/</link>
+      <link>http://localhost:1313/portfolio/christmascookies/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/christmascookies/</guid>
+      <guid>http://localhost:1313/portfolio/christmascookies/</guid>
       <description>&lt;p&gt;Tiny Christmas cookies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christmas Feast</title>
-      <link>https://creationsbysare.com/portfolio/christmasfeast/</link>
+      <link>http://localhost:1313/portfolio/christmasfeast/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/christmasfeast/</guid>
+      <guid>http://localhost:1313/portfolio/christmasfeast/</guid>
       <description>&lt;p&gt;These one of a kind super detailed earrings feature a clay sculpted scene within a stone window frame.  One window shows a beautifully decorated Christmas Tree and the other a Magical Christmas feast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dragons</title>
-      <link>https://creationsbysare.com/portfolio/dragon/</link>
+      <link>http://localhost:1313/portfolio/dragon/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/dragon/</guid>
+      <guid>http://localhost:1313/portfolio/dragon/</guid>
       <description>&lt;p&gt;Gorgeous Flying Dragons with sparkly wings. Buy on &lt;a href=&#34;https://www.etsy.com/listing/1430601293/flying-dragons-clay-statement-earrings?click_key=72c58276083ddfa8f399f1bc35fa04c8e5c5560a%3A1430601293&amp;amp;click_sum=533abab8&amp;amp;ref=shop_home_feat_3&#34;&gt;Etsy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mandrake</title>
-      <link>https://creationsbysare.com/portfolio/mandrake/</link>
+      <link>http://localhost:1313/portfolio/mandrake/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/mandrake/</guid>
+      <guid>http://localhost:1313/portfolio/mandrake/</guid>
       <description>&lt;p&gt;Cute little Mandrakes in their pots. Buy on &lt;a href=&#34;https://www.etsy.com/listing/1520676988/adorable-potted-mandrakes-polymer-clay?click_key=dd08a842b54c03747f3f0ed4c646298e8125eb23%3A1520676988&amp;amp;click_sum=93a04c49&amp;amp;ref=shop_home_feat_1&#34;&gt;Etsy&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mushroom</title>
-      <link>https://creationsbysare.com/portfolio/mushroomcircle/</link>
+      <link>http://localhost:1313/portfolio/mushroomcircle/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/mushroomcircle/</guid>
+      <guid>http://localhost:1313/portfolio/mushroomcircle/</guid>
       <description>&lt;p&gt;Lovely forest mushrooms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mushroom Gnomes</title>
-      <link>https://creationsbysare.com/portfolio/mushroomcircle-copy/</link>
+      <link>http://localhost:1313/portfolio/mushroomcircle-copy/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/mushroomcircle-copy/</guid>
+      <guid>http://localhost:1313/portfolio/mushroomcircle-copy/</guid>
       <description>&lt;p&gt;Lovely forest mushrooms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Owl Post</title>
-      <link>https://creationsbysare.com/portfolio/owlpost/</link>
+      <link>http://localhost:1313/portfolio/owlpost/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/owlpost/</guid>
+      <guid>http://localhost:1313/portfolio/owlpost/</guid>
       <description>&lt;p&gt;Beautiful Snowy Owls delivering the mail. Buy on &lt;a href=&#34;https://www.etsy.com/listing/1520669686/delivery-owl-polymer-clay-statement?click_key=c019f967cad4da184bca156dd5fb0a6530a9bc98%3A1520669686&amp;amp;click_sum=8e4fe582&amp;amp;ref=shop_home_feat_2&#34;&gt;Etsy&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Precious Pigs</title>
-      <link>https://creationsbysare.com/portfolio/preciouspigs/</link>
+      <link>http://localhost:1313/portfolio/preciouspigs/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/preciouspigs/</guid>
+      <guid>http://localhost:1313/portfolio/preciouspigs/</guid>
       <description>&lt;p&gt;Sweet little pigs with yellow rose crowns.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Owl Books</title>
-      <link>https://creationsbysare.com/portfolio/owlbooks/</link>
+      <link>http://localhost:1313/portfolio/owlbooks/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/owlbooks/</guid>
+      <guid>http://localhost:1313/portfolio/owlbooks/</guid>
       <description>&lt;p&gt;Tiny owls sitting a top little stacks of books. Buy on &lt;a href=&#34;https://www.etsy.com/listing/1274535347/tiny-owl-book-polymer-clay-statement?click_key=8646b8d3bffb456613a1f353277c9b8abb88e337%3A1274535347&amp;amp;click_sum=59a29897&amp;amp;ref=shop_home_active_10&amp;amp;frs=1&#34;&gt;Etsy&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purple Flowers</title>
-      <link>https://creationsbysare.com/portfolio/purpleflowers-copy/</link>
+      <link>http://localhost:1313/portfolio/purpleflowers-copy/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/purpleflowers-copy/</guid>
+      <guid>http://localhost:1313/portfolio/purpleflowers-copy/</guid>
       <description>&lt;p&gt;Detailed purple rose arrangements dangling from purple circles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purple Flowers</title>
-      <link>https://creationsbysare.com/portfolio/purpleflowers/</link>
+      <link>http://localhost:1313/portfolio/purpleflowers/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/purpleflowers/</guid>
+      <guid>http://localhost:1313/portfolio/purpleflowers/</guid>
       <description>&lt;p&gt;Detailed purple rose arrangements dangling from purple circles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Succulent</title>
-      <link>https://creationsbysare.com/portfolio/succulent/</link>
+      <link>http://localhost:1313/portfolio/succulent/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/succulent/</guid>
+      <guid>http://localhost:1313/portfolio/succulent/</guid>
       <description>&lt;p&gt;Succulents in cute planters.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Succulent Hoops</title>
-      <link>https://creationsbysare.com/portfolio/succulenthoops/</link>
+      <link>http://localhost:1313/portfolio/succulenthoops/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/succulenthoops/</guid>
+      <guid>http://localhost:1313/portfolio/succulenthoops/</guid>
       <description>&lt;p&gt;Gorgeous hand sculpted succulent arrangement hung on metal teardrops.&lt;/p&gt;</description>
     </item>
     <item>
       <title>White Poppies</title>
-      <link>https://creationsbysare.com/portfolio/whitepoppies/</link>
+      <link>http://localhost:1313/portfolio/whitepoppies/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://creationsbysare.com/portfolio/whitepoppies/</guid>
+      <guid>http://localhost:1313/portfolio/whitepoppies/</guid>
       <description>&lt;p&gt;Lovely white poppies on a light pink backdrop.&lt;/p&gt;</description>
     </item>
   </channel>

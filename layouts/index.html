@@ -1,7 +1,42 @@
-<head> 
-    {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
-    {{ end }}
-  </head>
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+    <title>Redirecting to Portfolio...</title>
+    <!-- 
+        This file should be placed in the 'layouts' directory of your Hugo project 
+        to override the default homepage.
+        
+        It uses a meta refresh tag to instantly redirect the site root (/)
+        to the /portfolio section.
+    -->
+    <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}portfolio">
+    
+    <!-- Canonical link for SEO purposes -->
+    <link rel="canonical" href="{{ .Site.BaseURL }}portfolio">
+    
+    <!-- Tailwind CSS CDN for basic styling of the fallback message -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Inter', sans-serif; background-color: #f7f7f7; }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen">
+    <div class="p-8 bg-white shadow-lg rounded-xl text-center">
+        <h1 class="text-2xl font-bold text-gray-800 mb-4">Redirecting...</h1>
+        <p class="text-gray-600 mb-6">
+            You are being automatically redirected to the <a href="{{ .Site.BaseURL }}portfolio" class="text-blue-600 hover:text-blue-800 font-medium">Portfolio</a> page.
+        </p>
+        <p class="text-sm text-gray-500">
+            If the redirection does not happen, please click the link above.
+        </p>
+    </div>
+    <script>
+        // Fallback JavaScript redirect for redundancy
+        window.onload = function() {
+            setTimeout(function() {
+                window.location.replace("{{ .Site.BaseURL }}portfolio");
+            }, 100);
+        };
+    </script>
+</body>
+</html>
